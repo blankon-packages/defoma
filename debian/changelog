@@ -1,3 +1,9 @@
+defoma (0.11.12blankon2) tambora; urgency=medium
+
+  * Rebuild 
+
+ -- mhy <dotovr@mhy>  Thu, 01 Oct 2015 14:09:09 +0700
+
 defoma (0.11.12blankon1) tambora; urgency=medium
 
   * Upstream release tambora
