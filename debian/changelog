@@ -1,3 +1,9 @@
+defoma (0.11.12blankon3) tambora; urgency=low
+
+  * Rebuild
+
+ -- Syai Mif <syaimif@di.blankon.in>  Tue, 07 Jun 2016 11:33:34 +0700
+
 defoma (0.11.12blankon2) tambora; urgency=medium
 
   * Rebuild 
