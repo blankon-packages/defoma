@@ -1,3 +1,9 @@
+defoma (0.11.12blankon3) uluwatu; urgency=medium
+
+  * Upload to uluwatu
+
+ -- AnTo SamalonA <ansamsoftdev@gmail.com>  Wed, 16 Aug 2017 13:12:31 +0800
+
 defoma (0.11.12blankon3) tambora; urgency=low
 
   * Rebuild
